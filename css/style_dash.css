@@ -172,6 +172,8 @@ header,
   color: #575757;
   font-size: 16px;
   margin-top: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .note .bottom-content {
   padding-top: 10px;
@@ -327,4 +329,8 @@ form button {
   .bottom-content .settings i {
     font-size: 17px;
   }
+}
+.home{
+  background-color: red;
+  height: 100%;
 }

@@ -43,7 +43,7 @@
     .btn_txt {
         display: flex;
         justify-content: center;
-        margin-top: 150px;
+        margin-top:100px
     }
 
     .btn_txt button {
@@ -51,9 +51,10 @@
         justify-content: center;
         background:#C1E8FF; */
         justify-content: center;
-        border: none;
-        padding-left: 0;
-        margin-top: -10px;
+        border: ;
+        padding:5px;
+     
+    
         font-size: 20px;
         font-weight: 500;
         cursor: pointer;

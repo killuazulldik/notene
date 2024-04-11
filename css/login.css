@@ -49,8 +49,12 @@ body {
   position: relative;
 }
 .field img{
-  width: auto;
+  width: 25px;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 15px;
   cursor: pointer;
+  
 }
 
 .wrapper form .field input {

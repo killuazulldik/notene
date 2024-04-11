@@ -24,7 +24,7 @@
                     <a href="login.php">SIGN IN </a>
                 </li>
                 <li>
-                    <a href="login.php">LOG OUT</a>
+                    <a href="login.php">REGISTER</a>
                 </li>
             </ul>
         </div>
